@@ -1,0 +1,78 @@
+#Cursos por semestre 
+
+
+
+#Primer Año
+#DP-101	Taller de Diseño I	
+#DP-102	Expresión Gráfica I	
+#DP-103	Percepción I	
+#DT-104	Geometría	
+#DT-105	Gráfica Computacional I	
+#DH-106	Historia y Teoría del Diseño I	
+#DH-107	Antropología Cultural	
+#DH-108 Matemáticas
+
+
+#Segundo Año 
+#DGP-201	Taller de Diseño Gráfico II	 (DP101)
+#DGP-202	Expresión Gráfica II         (DP102)
+#DGP-203	Percepción Visual	         (DP103)
+#DGT-204	Fotografía	
+#DGT-205	Gráfica Computacional II     (DT105)
+#DGH-206	Historia y Teoría del Diseño Gráfico II	   (DH106)
+#DGH-207	Teoría de la Comunicación	
+#DGH-208	Economía y Administración	 (DH108)
+
+
+#Quinto Semestre 
+#DGP-301	Taller de Diseño Gráfico III	(DGP201 / DGP203 / DGH207)
+#DGT-302	Tecnología Gráfica I	        (DGT205)
+#DGT-303	Multimedia I	                (DGT205 / DT104)
+#DGT-304	Lenguaje Audiovisual I	        (DGT204)
+#DGH-305	Psicología Social	            (DH107)
+#DGH-306	Semiotica de la Imagen I	    (DGH207)
+#DGH-307	Marketing I	                    (DGH208)
+#DE-1	    Electivo
+
+
+#Sexto Semestre 
+#DGP-401	Taller de Diseño Gráfico IV	    (DGH307 / DGP301 / DGH306)
+#DGT-402	Tecnología Gráfica II           (DGT302)
+#DGT-403	Multimedia II	                (DGT303)
+#DGT-404	Lenguaje Audiovisual II	        (DGT304)
+#DGH-405	Metodología de la Investigación	
+#DGH-406	Semiotica de la Imagen II	    (DGH306)
+#DGH-407	Marketing II	                (DGH307)
+#DE-2	    Electivo
+
+
+#Septimo Semestre
+#DGP-501	Taller de Diseño Gráfico V	        (DGT403 / DGH407 / DGH406 / DGP401)
+#DGP-502	Seminario Gráfica Computacional I	(DGT403)
+#DGT-503	Seminario Producción Audiovisual I	(DGT404)
+#DGH-507	Practica Profesional 1 (imprenta) 80 horas	(DGT402)
+#DGH-504	Seminario Diseño Gráfico I	        (DGH405)
+#DGH-505	Publicidad	                        (DGH305)
+#DGH-506	Seminario de Gestión I	            (DGH407)
+#DE-3	    Electivo                            (DE1)
+
+
+#Octavo Semestre 
+#DGP-601	Taller de Diseño Gráfico VI	        (DGH506 / DGP501)
+#DGP-602	Seminario Gráfica Computacional II	(DGP502)
+#DGT-603	Seminario Producción Audiovisual II	(DGT503)
+#DGH-604	Seminario Diseño Gráfico II	        (DGH504)
+#DGH-605	Ética y Legislación	
+#DGH-606	Seminario de Gestión II	            (DGH506)
+#DE-4	    Electivo	                        (DE1 / DE 2)
+
+
+#Noveno Semestre
+#DG-701	Practica Profesional	                (LICENCIATURA P.PROF.)
+#DG-702	Investigación (Base Memoria)	        (LICENCIATURA P.PROF.)
+
+
+#Decimo Semestre 
+#DG-801	Proyecto de Titulo	                    (DG701 / DG702)
+
+
